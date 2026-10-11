@@ -1,2 +1,4 @@
 # ccit102-group3
-greetings! the `ccit102-group3` repo is currently being used by the members of the group 3 who are entitled to develop a system that involves frontend and and API to communicate with each other.
+Greetings!
+
+Our objective is to create a system that has a frontend that connects to an API to communicate with it. Mainly to provide functionalities such as the CRUD system. `ccit102-group3` repo was created on October 11, 2026, as part of documentation and collaboration. This serves as a prerequisite to finish the CCIT102 course. Godspeed and good luck.
